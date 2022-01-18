@@ -1,0 +1,443 @@
+
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (max-width: 1199px) {
+    .hhc-left h1{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .plan-box h1{
+        width: 100%;
+    }
+    .visa-card{
+        width: 90%;
+    }
+    .exchange-box-2{
+        width: 20%;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 991px) {
+    .hero-header-content{
+        padding-bottom: 20px;
+    }
+    .hhc-left{
+        width: 60%;
+    }
+    .hhc-left h1{
+        font-size: 40px;
+        width: 80%;
+        padding-top: 20px;
+        line-height: 50px;
+    }
+    .trest-box h2{
+        font-size: 25px;
+    }
+    .trest-box p{
+        font-size: 14px;
+    }
+    .plan-box h1{
+        width: 100%;
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .plan-list li{
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 18px;
+    }
+    .visa-card{
+        width: 100%;
+    }
+    .section-title h1{
+        font-size: 25px;
+    }
+    .section-title p{
+        padding: 20px 0;
+        font-size: 14px;
+
+    }
+    .plan-action a{
+        font-size: 14px;
+    }
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 767px) {
+    .main-memu ul{
+        flex-direction: column;
+        display: none;
+        margin-left: 40px;
+    }
+    .hhc-left h1{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .about-trest{
+        padding: 25px 0;
+    }
+    .trest-box h2{
+        font-size: 20px;
+    }
+    .trest-box p{
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .downlord-btn{
+        padding-bottom: 50px;
+    }
+    .hhc-right{
+        bottom: -3px;
+    }
+    .downlord-btn a{
+        font-size: 16px;
+    }
+    .plan-box h1{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .plan-list li{
+        font-size: 10px;
+        line-height: 15px;
+        padding: 5px 0;
+    }
+    .plan-action a{
+        font-size: 12px;
+    }
+    .plan-box span{
+        font-size: 10px;
+    }
+    .visa-card h3{
+        font-size: 16px;
+    }
+    .visa-card span{
+        font-size: 12px;
+
+    }
+    .visa-card strong{
+        font-size: 14px;
+    }
+    .online-atm-section-content .section-title h1{
+        font-size: 20px;
+    }
+    .online-atm-section-content .section-title p{
+        font-size: 12px;
+        line-height: 18px;
+        width: 45%;
+        padding: 10px 0;
+    }
+    .online-atm-section-content .section-title{
+        width: 100%;
+        text-align: center;
+    }
+    .all-exchange-box{
+        flex-direction: column;
+    }
+    .exchange-box-1{
+        margin-bottom: 20px;
+    }
+    .top2 span{
+        font-size: 14px;
+    }
+    .top3 span{
+        font-size: 14px;
+    }
+    .top1 span{
+        font-size: 10px;
+    }
+    .e-b-3 p,
+    .e-b-2 p{
+        font-size: 10px;
+    }
+    .border-box{
+        width: 100%;
+    }
+    .border-box span{
+        font-size: 14px;
+    }
+    .border-box strong{
+        font-size: 10px;
+    }
+    .e-b-button a{
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    .exchange-box-1,
+    .exchange-box-2{
+        width: 35%;
+    }
+    .top3 span i,
+    .top2 span i{
+        font-size: 10px;
+    }
+    .g-b-1-box{
+        padding: 30px 10px;
+    }
+    .g-b-1-box h2{
+        font-size: 14px;
+
+    }
+    .g-b-1-box p{
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .fc-t-left p{
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .fc-t-left span{
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .email-box input{
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    .email-box button{
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    .email-box button i{
+        font-size: 12px;
+    }
+    .fc-t-right h3,
+    .fc-t-center h3{
+        font-size: 16px;
+    }
+    .fc-t-right ul li a,
+    .fc-t-center ul li a{
+        font-size: 12px;
+    }
+    .f-c-bottom p{
+        font-size: 12px;
+    }
+    .f-c-bottom ul li a{
+        font-size: 12px;
+    }
+    .section-title h1{
+        font-size: 20px;
+    }
+    .section-title p{
+        padding: 15px 0;
+        font-size: 12px;
+    }
+    .downlord-btn a{
+        font-size: 12px;
+        padding: 10px 15px;
+    }
+    .mobile-menu-box{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+
+    }
+    .block{
+        display: block !important;
+    }
+    
+.add-nav{
+    position: absolute;
+    background: #245447;
+    left: -10%;
+    right: 0px;
+    top: 0px;
+    height: 100vh;
+    width: 70%;
+    opacity: .9;
+    position: fixed;
+    transform: rotateY(45deg);
+    z-index: 2;
+    background-image: linear-gradient(
+        333deg
+        , #245447 50%, #03744ae6 80%);
+
+}
+
+.block{
+    display: block;
+    margin-top: 100px;
+}
+.block li{
+    margin: 20px 0;
+}
+
+    
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 599px) {
+    .all-plan-box{
+        flex-direction: column;
+    }
+    .plan-box{
+        width: 90%;
+    }
+    .all-global-box{
+        flex-direction: column;
+    }
+    .global-box-3,
+    .global-box-1{
+        width: 80%;
+    }
+    .global-box-2{
+        width: 50%;
+    }
+    .f-c-top{
+        padding: 0;
+        flex-wrap: wrap;
+    }
+    .fc-t-left{
+        width: 100%;
+    }
+    .fc-t-center{
+        width: 50%;
+
+    }
+    .fc-t-right{
+        width: 50%;
+    }
+    .fc-t-left span,
+    .fc-t-left p{
+        margin: auto;
+    }
+    .fc-t-left a{
+        display: inline-block;
+        width: 70%;
+        text-align: center;
+    }
+    .email-box{
+        justify-content: center;
+    }
+    .login-btn a{
+        font-size: 14px;
+        padding: 6px 10px;
+
+    }
+    .logo a {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .logo{
+        width: 30%;
+    }
+    .mobile-menu-box{
+        width: 15%;
+    }
+    .hhc-right{
+        display: none;
+    }
+    .hhc-left{
+        width: 90%;
+        margin: auto;
+        text-align: center;
+    }
+    .hhc-left h1{
+        width: 100%;
+    }
+    .downlord-btn{
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    .login-form{
+        align-items: center;
+        justify-content: center;
+    }
+    .block{
+        margin-top: 40px;
+    }
+    .block li{
+        margin: 10px 0;
+    }
+    .add-nav{
+        width: 90%;
+        left: -14%;
+    }
+    
+}
+
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 450px) {
+    .login-btn a{
+        font-size: 10px;
+        padding: 5px;
+
+    }
+    .logo{
+        width: 30%;
+    }
+    .mobile-menu-box{
+        width: 15%;
+    }
+    .hhc-right{
+        display: none;
+    }
+    .hhc-left{
+        width: 90%;
+        margin: auto;
+        text-align: center;
+    }
+    .hhc-left h1{
+        width: 100%;
+    }
+    .downlord-btn{
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    .section-title p{
+        width: 100%;
+    }
+    .online-atm-section-content .section-title p{
+        width: 80%;
+    }
+    .fc-t-left span, .fc-t-left p{
+        width: 90%;
+        text-align: center;
+    }
+    .fc-t-left a{
+        width: 100%;
+    }
+
+    .fc-t-center,
+    .fc-t-right{
+        text-align: center;
+    }
+    .fc-t-right ul li a, .fc-t-center ul li a{
+        font-size: 10px;
+    }
+    .f-c-bottom{
+        width: 100%;
+        padding-top: 20px;
+    }
+    .block{
+        margin-top: 40px;
+    }
+    .block li{
+        margin: 10px 0;
+    }
+    .add-nav{
+        width: 90%;
+        left: -14%;
+    }
+}
+
+@media only screen and (max-width: 370px) {
+    .exchange-box-1, .exchange-box-2{
+        width: 70%;
+    }
+    .block{
+        margin-top: 40px;
+    }
+    .block li{
+        margin: 10px 0;
+    }
+    .add-nav{
+        width: 90%;
+        left: -14%;
+    }
+
+}
